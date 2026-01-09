@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "프로그래머스 점찍기"
-date: 2026-01-01:00:00 +0900
+date: 2026-01-01 00:00:00 +0900
 categories: [Algorithm, Troubleshooting]
 tags: [Kotlin]
 math: true
