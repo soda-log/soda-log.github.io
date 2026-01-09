@@ -6,7 +6,7 @@ categories: [Algorithm, Troubleshooting]
 tags: [Kotlin]
 math: true
 ---
-https://school.programmers.co.kr/learn/courses/30/lessons/140107
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/140107)
 
 Lv. 2. 내가 풀었을 때의 정답률: 42%
 
